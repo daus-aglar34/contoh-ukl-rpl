@@ -26,3 +26,7 @@
 ##### Berikut adalah lampiran hasil program Soal Mudah No 2 Uji Coba UKL
 ![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Prorgram%20Soal%20Mudah%20No%202.png?raw=true=450x300)
 
+
+### Soal Sedang No 1
+##### Alur kerja program :
+##### 1. Program 
