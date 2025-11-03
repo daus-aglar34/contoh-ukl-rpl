@@ -10,3 +10,6 @@
 ##### 7. Selanjutnya, hitung volume dengan mangalikan panjang, lebar, tinggi yang sudah di inputkan olah user sebelumnya
 ##### 8. Jika volume lebih dari 100 cm3, maka fee akan bertambah Rp. 50000
 ##### 9. Selanjutnya, program menampilkan hasil dari program yakni "Total biaya pengiriman : Rp. hasil"
+##### 
+##### Berikut adalah lampiran hasil program Soal Mudah No 1 Uji Coba UKL
+[![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Mudah%20No%201.jpg?raw=true=400x250)]
