@@ -12,7 +12,7 @@
 ##### 9. Selanjutnya, program menampilkan hasil dari program yakni "Total biaya pengiriman : Rp. hasil"
 ##### 
 ##### Berikut adalah lampiran hasil program Soal Mudah No 1 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Mudah%20No%201.jpg?raw=true=400x250)
+![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Mudah%20No%201.png?raw=true=400x250)
 
 
 ### Soal Mudah No 2
