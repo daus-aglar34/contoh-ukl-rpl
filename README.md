@@ -19,7 +19,7 @@
 ##### Alur kerja program :
 ##### 1. Program menanyakan kepada user untuk memasukkan angka
 ##### 2. Program akan langsung menentukan apakah ganjil atau genap menggunakan modulus dengan syntax :
-##### if(input_user % 2 == 0) 
+    if(input_user % 2 == 0) 
 ##### maka sistem akan menampilkan Angka tersebut adalah Genap
 ##### 3. Sebaliknya, jika angka di modulus 2 mendapatkan sisa bukan 0, mkaa program akan menampilkan bahwa angka yang user masukkan adalah ganjil
 #####
@@ -32,12 +32,12 @@
 ##### 1. Program meminta pengguna untuk memasukkan sebuah bilangan bulat positif melalui input.
 ##### 2. Program memeriksa apakah bilangan tersebut negatif atau tidak. Jika negatif, program akan menampilkan pesan bahwa faktorial tidak dapat dihitung.
 ##### 3. Jika bilangan valid (≥ 0), maka program akan menghitung faktorial menggunakan perulangan for dengan rumus:
-#####     faktorial = faktorial * i
+     faktorial = faktorial * i
 #####     Perulangan dilakukan dari i = 1 hingga i = n.
 ##### 4. Setelah proses perulangan selesai, program akan menampilkan hasil faktorial dari bilangan yang dimasukkan.
 ##### 5. Program kemudian menutup input menggunakan input.close(); untuk mengakhiri proses.
 ##### Berikut adalah lampiran hasil program Soal Sedang No 1 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sedang%201.png?raw=true=450x300)
+![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sedang%20No%201.png?raw=true=450x300)
 
 ### Soal Sedang No 2
 ##### Alur kerja program :
@@ -53,7 +53,7 @@
 ###### 1. Program menanyakan kepada pengguna untuk memasukkan jumlah siswa yang akan direkap nilainya.
 ###### 2. Program kemudian akan meminta pengguna untuk memasukkan nilai ujian untuk setiap siswa satu per satu menggunakan perulangan for.
 ###### 3. Setiap nilai yang dimasukkan akan ditambahkan ke total nilai menggunakan rumus:
-######      totalNilai += nilai;
+      totalNilai += nilai;
 ###### 4. Setelah semua nilai siswa dimasukkan, program akan menghitung nilai rata-rata menggunakan rumus:
     rataRata = totalNilai / jumlahSiswa;
 ###### 5. Program akan menampilkan hasil berupa total nilai dan rata-rata nilai ujian Produktif RPL ke layar.
